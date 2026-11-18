@@ -1,0 +1,40 @@
+THE FORGOTTEN CITY - TÜRKÇE YAMA
+================================
+
+Bu yama oyunun menülerini, konuşmalarını, görev ve eşya metinlerini Türkçe yapar.
+Oyun dosyalarını DEĞİŞTİRMEZ: yalnızca "Content\Paks" klasörüne tek bir dosya ekler
+(pakchunk0-WindowsNoEditor_P.pak). Bu dosya silinirse oyun eski haline döner.
+
+KURULUM
+1. Zip dosyasının içindekileri bir klasöre çıkarın (Program Files dışında, örneğin Belgelerim).
+2. Oyun kapalıyken Yukle.exe'yi çalıştırın.
+3. Steam'deki oyun otomatik bulunur. Bulunamazsa (başka mağaza, taşınmış kurulum)
+   "Oyun klasörünü seç…" ile oyunun klasörünü gösterin
+   (içinde ModernStoryteller01 klasörü olan klasör).
+4. "Yamayı kur" düğmesine basın. Birkaç saniye sürer.
+5. Oyunu açın, Ayarlar > Arayüz > Dil satırından "Türkçe"yi seçin.
+
+KALDIRMA
+Yukle.exe > "Yamayı kaldır". (Ya da pakchunk0-WindowsNoEditor_P.pak dosyasını elle silin.)
+
+GÜVENLİK
+- Yalnızca o tek dosyaya dokunur; oyunun kendi dosyalarına, kayıtlarınıza ve ayarlarınıza dokunmaz.
+- İnternete bağlanmaz.
+- Oyun açıkken kurmaz ve kaldırmaz.
+- Başka birinin aynı adlı dosyası varsa üzerine yazmaz.
+- Oyun güncellenip metni değişirse "bu oyun sürümü için yama hazır değil" der ve hiçbir şey kurmaz.
+- Yama paketi sizin bilgisayarınızda, sizin oyun dosyalarınızdan üretilir; bu pakette oyundan türeyen dosya yoktur.
+- Program imzasızdır: Windows SmartScreen "bilinmeyen yayıncı" uyarısı verebilir.
+  Kaynak kod açıktır.
+
+DENENEN SÜRÜM
+Yalnızca Steam sürümü, Windows 10, oyun yapı numarası 9300715 denendi.
+Epic/GOG ya da başka sürümler denenmedi.
+
+PAKETTEKİLER
+node.exe, Node.js'in resmî sürümüdür (MIT lisanslı, https://nodejs.org). Yukle.exe yalnızca
+pencereyi gösterir; asıl işi tools klasöründeki betikler yapar.
+
+LİSANS
+Araçlar ve yükleyici: MIT (LICENSE-MIT.txt). Türkçe çeviri: CC BY-NC 4.0 (LICENSE-CEVIRI.txt).
+Oyun ve oyunun metni yapımcılarına aittir.

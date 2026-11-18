@@ -1,0 +1,347 @@
+{
+  "aciklama": "GoudyTrajan (başlık yazı tipi) ile çizilen locres anahtarları. Bu yazı tipinde i ile ı aynı noktasız harftir (\"Yeni\" → YENI); yama üretilirken bu anahtarların Türkçe değerinde i → İ yazılır (tools/lib/yama.mjs baslikYazisi). Üreten: tools/taslak/goudy-export.mjs --json. Oyun build'i değişirse yeniden üret. E1 = metnin kendi export'u Goudy'ye bağlı yazı tipi/stile atıf eder; E3 = export Goudy'ye bağlı widget sınıfının örneği; OYUN = oyunda görüldü, ELLE eklenir (üretici dosya varsa bunları korur, silmez).",
+  "anahtarlar": [
+    {
+      "ns": "",
+      "key": "4B313E6F4C97CA19066D80B1FC678441",
+      "kanit": "E1",
+      "varlik": "Blueprints/Actors/Interactive_Movable/BP_Sentilla_Tablet"
+    },
+    {
+      "ns": "",
+      "key": "5D9A60964454C86241159691D7DCB9C3",
+      "kanit": "E1",
+      "varlik": "Blueprints/Actors/Interactive_Movable/BP_Sentilla_Tablet"
+    },
+    {
+      "ns": "",
+      "key": "799998BD4843E212CB5CA4827F87C298",
+      "kanit": "E1",
+      "varlik": "Blueprints/Actors/Interactive_Movable/BP_Sentilla_Tablet_2"
+    },
+    {
+      "ns": "",
+      "key": "D2118EBC4BF43900AA74BBA886650FED",
+      "kanit": "E1",
+      "varlik": "Blueprints/Actors/Interactive_Movable/BP_Sentilla_Tablet_2"
+    },
+    {
+      "ns": "",
+      "key": "D49DFE804963A88A2813218963893680",
+      "kanit": "E1",
+      "varlik": "Blueprints/Actors/Interactive_Movable/BP_Tablet_Sumerian"
+    },
+    {
+      "ns": "",
+      "key": "FFB331EA498CE8623C07868695D9C7AA",
+      "kanit": "E1",
+      "varlik": "Blueprints/Actors/Interactive_Movable/BP_Tablet_Sumerian"
+    },
+    {
+      "ns": "",
+      "key": "CB5E327C4EC04664CB0B7A941042D34B",
+      "kanit": "E1",
+      "varlik": "UI/Ammo_Counter"
+    },
+    {
+      "ns": "",
+      "key": "EEC790CC46CC98DA5714C1AF87F21EE0",
+      "kanit": "E1",
+      "varlik": "UI/Character_Setup_Name"
+    },
+    {
+      "ns": "",
+      "key": "1A8C7D3D4928D86838DA39925D01EB3D",
+      "kanit": "E1",
+      "varlik": "UI/Character_Setup_Sex"
+    },
+    {
+      "ns": "",
+      "key": "0A359A68408C023548458BA11D351FA8",
+      "kanit": "E1",
+      "varlik": "UI/Character_Setup_Skin"
+    },
+    {
+      "ns": "",
+      "key": "FA8C59AF4284F60B5597AD8B3B06F94F",
+      "kanit": "E3",
+      "varlik": "UI/LoadSave_CharacterProfile"
+    },
+    {
+      "ns": "",
+      "key": "E31F71C84AE26602BF272382A2FDCA87",
+      "kanit": "E3",
+      "varlik": "UI/LoadSave_LoadGame_Scene"
+    },
+    {
+      "ns": "",
+      "key": "2A2FA8E3408A8232A713CA8362A7AE46",
+      "kanit": "E1",
+      "varlik": "UI/LoadSave_SavedGameDetails"
+    },
+    {
+      "ns": "",
+      "key": "869198EA4615BEB1BC14739BA259E186",
+      "kanit": "E3",
+      "varlik": "UI/LoadSave_SavedGameList"
+    },
+    {
+      "ns": "",
+      "key": "E1CA9A9441A74710B570EDA3A6604AE4",
+      "kanit": "E3",
+      "varlik": "UI/LoadSave_SavedGameList"
+    },
+    {
+      "ns": "",
+      "key": "8358831B45DB4BAD51CD4C81F79AE21B",
+      "kanit": "E3",
+      "varlik": "UI/LoadSave_SaveGame_Scene"
+    },
+    {
+      "ns": "",
+      "key": "D2BF99C84345F42115C06D9C3A553EAD",
+      "kanit": "E3",
+      "varlik": "UI/LoadSave_SaveGame_Scene"
+    },
+    {
+      "ns": "",
+      "key": "B05BDE5F41B14C86D68DA4AD36461134",
+      "kanit": "E1",
+      "varlik": "UI/Loot_Widget"
+    },
+    {
+      "ns": "",
+      "key": "05D006614FAEA25DB2BC4484BDACE40E",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "0EF0951E47685405C1809B9B525D9B30",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "1D7B4B2D4158CC35059452911C0B2E14",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "202A3A49480C5F8A18890F9ACCCBF802",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "566ED9CB4316048FE0DF2796F78A8AD3",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "8EF25B7D4A5310CA1E9897A4DC468BAA",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "A6AB24B8495E4D61F48C19881E331235",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "SocialMedia_Feedback",
+      "kanit": "E1",
+      "varlik": "UI/Menus/GameMenu"
+    },
+    {
+      "ns": "",
+      "key": "425228244EEE6522504B559A990B16FC",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PauseMenu"
+    },
+    {
+      "ns": "",
+      "key": "54977DB6462687B15FDC22AEED0F2A6C",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PauseMenu"
+    },
+    {
+      "ns": "",
+      "key": "65F9691C40ACE23CA25667947E670CA3",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PauseMenu"
+    },
+    {
+      "ns": "",
+      "key": "D72C7E7E4650DF4AFEABA1A02AA3FB14",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PauseMenu"
+    },
+    {
+      "ns": "",
+      "key": "FABD07CD4814105D904DAABFCCC04104",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PauseMenu"
+    },
+    {
+      "ns": "",
+      "key": "07A73BF545617E18A028C699E0391B1B",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PlayerDeath"
+    },
+    {
+      "ns": "",
+      "key": "11BBC1B94E91A64BBD3AA588E440F996",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PlayerDeath"
+    },
+    {
+      "ns": "",
+      "key": "6A0E717B4D878C7217BAFCA357EC319C",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PlayerDeath"
+    },
+    {
+      "ns": "",
+      "key": "FF9E49B84A75E436BF04A9A3673C0595",
+      "kanit": "E1",
+      "varlik": "UI/Menus/PlayerDeath"
+    },
+    {
+      "ns": "",
+      "key": "78C528B3424341D995F8B8A63296A925",
+      "kanit": "E3",
+      "varlik": "UI/PlayerMenu_Inventory"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "PlayerMenu_Journal_Primary",
+      "kanit": "E1",
+      "varlik": "UI/PlayerMenu_Journal"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "PlayerMenu_Journal_Secondary",
+      "kanit": "E1",
+      "varlik": "UI/PlayerMenu_Journal"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "Inventory_Menu",
+      "kanit": "E3",
+      "varlik": "UI/PlayerMenu_Panel"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "Quests_Menu",
+      "kanit": "E3",
+      "varlik": "UI/PlayerMenu_Panel"
+    },
+    {
+      "ns": "",
+      "key": "E3B1FB264E3538E66B7F3FB0E2D358EE",
+      "kanit": "E1",
+      "varlik": "UI/Popup_Generic"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "Settings_Input_Rebind_Heading",
+      "kanit": "E1",
+      "varlik": "UI/Popup_Rebinding"
+    },
+    {
+      "ns": "",
+      "key": "BE86BC8845B5E878C978BC80E24751A2",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Audio"
+    },
+    {
+      "ns": "",
+      "key": "1DF287E24B7F48D80D12389D9A63C08B",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Bindings"
+    },
+    {
+      "ns": "",
+      "key": "AE4533D040F8768AC9FB2CBBCED0BC8B",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Bindings"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "Settings_Bindings_MK_Section",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Bindings"
+    },
+    {
+      "ns": "",
+      "key": "17D623B44F64EE60CCA1E697703FBB1B",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Game"
+    },
+    {
+      "ns": "",
+      "key": "2B9503534A74DFF47D77CFBF71D8C967",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Game"
+    },
+    {
+      "ns": "",
+      "key": "CB9886764254C9682C72A0A0A6C42E1D",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Game"
+    },
+    {
+      "ns": "",
+      "key": "5014B57743E5F69E7773FEA8EC797BAC",
+      "kanit": "E3",
+      "varlik": "UI/Settings_InputOptions"
+    },
+    {
+      "ns": "",
+      "key": "9B6CBF4B4B19DAB2AE6D8D97C87955AF",
+      "kanit": "E3",
+      "varlik": "UI/Settings_InputOptions"
+    },
+    {
+      "ns": "",
+      "key": "5C067E3C47DD105A64953DB51E920D20",
+      "kanit": "E1",
+      "varlik": "UI/Settings_Scene"
+    },
+    {
+      "ns": "",
+      "key": "C342046A43EE1D01F256FF85417CA0F5",
+      "kanit": "E1",
+      "varlik": "UI/Settings_Tab"
+    },
+    {
+      "ns": "",
+      "key": "A9FDC13F413EDCD8B8D29DB3027C7F4A",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Video"
+    },
+    {
+      "ns": "",
+      "key": "E1309A4F4E8880AC0BF5F49F79D2A3FB",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Video"
+    },
+    {
+      "ns": "",
+      "key": "F3557A2B406A6DEB06DC8FA66D03802D",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Video"
+    },
+    {
+      "ns": "UserInterface",
+      "key": "Settings_Video_Heading_Display",
+      "kanit": "E3",
+      "varlik": "UI/Settings_Video"
+    }
+  ]
+}

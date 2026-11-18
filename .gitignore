@@ -1,0 +1,10 @@
+# Kişisel izinler (oturuma özel, depoya girmez)
+.claude/settings.local.json
+node_modules/
+
+# Çeviri kaynağı: İngilizce oyun metni depoya girmez (tools/ceviri-kaynak.mjs üretir)
+ceviri/kaynak/
+
+# Yama çıktısı: oyundan türeyen veri içerir, depoya girmez (tools/yama-uret.mjs üretir)
+yama/
+dist/

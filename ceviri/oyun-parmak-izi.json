@@ -1,0 +1,5 @@
+{
+  "parmakIzi": "FFBD71A0DBE3625C80AEC5A8F471B60F40CA197BC28412402756A14C3CAA8A65",
+  "build": "9300715",
+  "not": "oyunun sınanan sürümünün eşleşme tablosu SHA256; yükleyici farklı sürüme kurmayı reddeder (tools/yukleyici.mjs parmak-izi-yaz)"
+}
